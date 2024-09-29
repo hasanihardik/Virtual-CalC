@@ -1,1 +1,1 @@
-# OPEN CV BASED PROJECT
+# Virtual Calculator 
